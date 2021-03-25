@@ -10,6 +10,10 @@ https://github.com/Mayandev/django_morec
 # 使用方法
 安装完所需要的包直接允许即可，但是后端也要同时连接，具体操作看原项目的介绍
 
+# APP运行视频
+
+https://www.bilibili.com/video/BV1mh411S75k/
+
 # APP截图
 
 ## APP展示
@@ -40,4 +44,3 @@ https://github.com/Mayandev/django_morec
 
 ## Flask端用来进行搭建API以及处理爬虫信息，没截图。
 
-# APP运行视频
