@@ -11,5 +11,6 @@ https://github.com/Mayandev/django_morec
 安装完所需要的包直接允许即可，但是后端也要同时连接，具体操作看原项目的介绍
 
 # APP截图
+![image](screenshots/TIM图片20200308193644.png)
 
 # APP运行视频
