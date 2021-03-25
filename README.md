@@ -11,6 +11,15 @@ https://github.com/Mayandev/django_morec
 安装完所需要的包直接允许即可，但是后端也要同时连接，具体操作看原项目的介绍
 
 # APP截图
+
+## APP展示
+![image](screenshots/TIM图片20200317190746.png)
+![image](screenshots/TIM图片20200317193432.png)
+![image](screenshots/TIM图片20200317201839.png)
+![image](screenshots/微信图片_20200316170852.png)
+![image](screenshots/微信图片_20200308191244.png)
+![image](screenshots/微信图片_20200308191254.png)
+
 ## 运行django后端
 ![image](screenshots/TIM图片20200308193644.png)
 ![image](screenshots/TIM图片20200309193700.png)
@@ -21,14 +30,6 @@ https://github.com/Mayandev/django_morec
 ![image](screenshots/TIM图片20200309170123.png)
 ![image](screenshots/TIM图片20200309170123.png)
 ![image](screenshots/TIM图片20200309193700.png)
-
-## APP展示
-![image](screenshots/TIM图片20200317190746.png)
-![image](screenshots/TIM图片20200317193432.png)
-![image](screenshots/TIM图片20200317201839.png)
-![image](screenshots/微信图片_20200316170852.png)
-![image](screenshots/微信图片_20200308191244.png)
-![image](screenshots/微信图片_20200308191254.png)
 
 ## API
 ![image](screenshots/微信图片_20200311194753.png)
