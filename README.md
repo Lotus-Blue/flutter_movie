@@ -11,6 +11,32 @@ https://github.com/Mayandev/django_morec
 安装完所需要的包直接允许即可，但是后端也要同时连接，具体操作看原项目的介绍
 
 # APP截图
+## 运行django后端
 ![image](screenshots/TIM图片20200308193644.png)
+![image](screenshots/TIM图片20200309193700.png)
+![image](screenshots/TIM图片20200330120410.png)
+
+## 个人修改后端推荐代码【自创版本，智能算法版本不上传】
+![image](screenshots/TIM图片20200309170115.png)
+![image](screenshots/TIM图片20200309170123.png)
+![image](screenshots/TIM图片20200309170123.png)
+![image](screenshots/TIM图片20200309193700.png)
+
+## APP展示
+![image](screenshots/TIM图片20200317190746.png)
+![image](screenshots/TIM图片20200317193432.png)
+![image](screenshots/TIM图片20200317201839.png)
+![image](screenshots/微信图片_20200316170852.png)
+![image](screenshots/微信图片_20200308191244.png)
+![image](screenshots/微信图片_20200308191254.png)
+
+## API
+![image](screenshots/微信图片_20200311194753.png)
+
+## 项目过程记录
+![image](screenshots/微信图片_20200311220258.png)
+
+
+## Flask端用来进行搭建API以及处理爬虫信息，没截图。
 
 # APP运行视频
