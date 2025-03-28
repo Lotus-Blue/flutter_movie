@@ -1,3 +1,5 @@
+# 大概6月份全部上传，不过豆瓣api用不了了，所以此项目基本作废了，可以看看运行视频
+
 # flutter_movie【Django及Flask端未上传，打算看该项目大家有没有兴趣再上传，文末有截图及视频】
 一个可解释性电影推荐系统，系统分为 App 端以及服务器端，App可在安卓端使用，服务器使用Python 流行Web框架 Django 和Flask搭建，并使用定时任务 crontab 命令进行定时推荐。APP端实现了用户登录注册、查看最新电影列表、电影 top 榜单、电影详情、电影评分、推荐列表和其推荐解释等功能，并采用模板的方式生成解释呈现给用户，使推荐更可以得到用户的信任。
 
@@ -12,7 +14,7 @@ https://github.com/Mayandev/django_morec
 
 # APP运行视频
 
-https://www.bilibili.com/video/BV1mh411S75k/
+[https://www.bilibili.com/video/BV1mh411S75k/](https://www.bilibili.com/video/BV1ZAodYqErF/)
 
 # APP截图
 
